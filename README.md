@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/eibelsmathew/leet-practice/tree/master/0009-palindrome-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/eibelsmathew/leet-practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/2058-concatenation-of-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/eibelsmathew/leet-practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
