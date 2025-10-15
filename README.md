@@ -15,6 +15,7 @@
 | [2058-concatenation-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/2058-concatenation-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/eibelsmathew/leet-practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/eibelsmathew/leet-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/eibelsmathew/leet-practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/eibelsmathew/leet-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Binary Search
+|  |
+| ------- |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/eibelsmathew/leet-practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 <!---LeetCode Topics End-->
