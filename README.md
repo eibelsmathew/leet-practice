@@ -30,10 +30,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/eibelsmathew/leet-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/eibelsmathew/leet-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
@@ -42,6 +44,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/eibelsmathew/leet-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
@@ -52,6 +55,7 @@
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sorting
 |  |
 | ------- |
