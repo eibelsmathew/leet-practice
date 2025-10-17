@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/eibelsmathew/leet-practice/tree/master/0344-reverse-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sorting
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/eibelsmathew/leet-practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
