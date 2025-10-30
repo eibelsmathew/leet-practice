@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/eibelsmathew/leet-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2058-concatenation-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/eibelsmathew/leet-practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
