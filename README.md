@@ -16,6 +16,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2058-concatenation-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/eibelsmathew/leet-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/eibelsmathew/leet-practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/eibelsmathew/leet-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -27,6 +28,7 @@
 | ------- |
 | [2058-concatenation-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/eibelsmathew/leet-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -104,4 +106,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eibelsmathew/leet-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/eibelsmathew/leet-practice/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/eibelsmathew/leet-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
