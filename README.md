@@ -20,6 +20,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/eibelsmathew/leet-practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/eibelsmathew/leet-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/eibelsmathew/leet-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/eibelsmathew/leet-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/eibelsmathew/leet-practice/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/eibelsmathew/leet-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -60,6 +61,7 @@
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/eibelsmathew/leet-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/eibelsmathew/leet-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## String
 |  |
 | ------- |
@@ -106,8 +108,13 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eibelsmathew/leet-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/eibelsmathew/leet-practice/tree/master/0643-maximum-average-subarray-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/eibelsmathew/leet-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Matrix
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/eibelsmathew/leet-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/eibelsmathew/leet-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 <!---LeetCode Topics End-->
