@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/eibelsmathew/leet-practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/eibelsmathew/leet-practice/tree/master/0066-plus-one) |
 | [2491-smallest-even-multiple](https://github.com/eibelsmathew/leet-practice/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/eibelsmathew/leet-practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -12,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/eibelsmathew/leet-practice/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/eibelsmathew/leet-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2058-concatenation-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/2058-concatenation-of-array) |
