@@ -113,6 +113,7 @@
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -143,4 +144,16 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/eibelsmathew/leet-practice/tree/master/2215-finding-3-digit-even-numbers) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
