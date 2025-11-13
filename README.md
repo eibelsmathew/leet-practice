@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/eibelsmathew/leet-practice/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/eibelsmathew/leet-practice/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/eibelsmathew/leet-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -91,10 +92,12 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/eibelsmathew/leet-practice/tree/master/0011-container-with-most-water) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/eibelsmathew/leet-practice/tree/master/0011-container-with-most-water) |
 | [0234-palindrome-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/eibelsmathew/leet-practice/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
