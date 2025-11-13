@@ -17,6 +17,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/eibelsmathew/leet-practice/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/eibelsmathew/leet-practice/tree/master/0643-maximum-average-subarray-i) |
+| [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2058-concatenation-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
@@ -80,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2215-finding-3-digit-even-numbers](https://github.com/eibelsmathew/leet-practice/tree/master/2215-finding-3-digit-even-numbers) |
 ## Binary Search
@@ -95,6 +97,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/eibelsmathew/leet-practice/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Design
 |  |
 | ------- |
