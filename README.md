@@ -147,16 +147,23 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
