@@ -151,12 +151,14 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0226-invert-binary-tree) |
 ## Database
 |  |
 | ------- |
