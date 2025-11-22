@@ -20,6 +20,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/eibelsmathew/leet-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eibelsmathew/leet-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/eibelsmathew/leet-practice/tree/master/2215-finding-3-digit-even-numbers) |
@@ -78,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/eibelsmathew/leet-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/eibelsmathew/leet-practice/tree/master/0344-reverse-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eibelsmathew/leet-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sorting
 |  |
