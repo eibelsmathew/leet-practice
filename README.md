@@ -161,6 +161,7 @@
 | [0110-balanced-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/eibelsmathew/leet-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,8 +179,17 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/eibelsmathew/leet-practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/eibelsmathew/leet-practice/tree/master/0595-big-countries) |
+## Union Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/eibelsmathew/leet-practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/eibelsmathew/leet-practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
