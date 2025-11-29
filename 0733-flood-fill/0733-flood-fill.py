@@ -1,21 +1,27 @@
+from typing import List
+
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        old_color = image[sr][sc]
-        if old_color == color:
-            return image
+        original = image[sr][sc]
+        if original == color:
+            return image 
 
-        row, col = len(image), len(image[0])
+        rows, cols = len(image), len(image[0])
+        stack = [(sr, sc)]
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 
-        def dfs(r, c):
-            if r < 0 or r >= row or c < 0 or c >= col:
-                return
-            if image[r][c] != old_color:
-                return
+        while stack:
+            r, c = stack.pop()
 
-            image[r][c] = color
-            dfs(r+1, c)
-            dfs(r-1, c)
-            dfs(r, c+1)
-            dfs(r, c-1)
-        dfs(sr, sc)
+            if image[r][c] == original:
+                image[r][c] = color
+
+                for dr, dc in directions:
+                    nr, nc = r + dr, c + dc
+
+                    if 0 <= nr < rows and 0 <= nc < cols:
+                        if image[nr][nc] == original:
+                            stack.append((nr, nc))
+
         return image
+     
