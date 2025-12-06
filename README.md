@@ -107,6 +107,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/eibelsmathew/leet-practice/tree/master/0225-implement-stack-using-queues) |
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
 ## Linked List
 |  |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/eibelsmathew/leet-practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/eibelsmathew/leet-practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/eibelsmathew/leet-practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
