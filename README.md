@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/eibelsmathew/leet-practice/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/eibelsmathew/leet-practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/eibelsmathew/leet-practice/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/eibelsmathew/leet-practice/tree/master/1025-divisor-game) |
 | [2491-smallest-even-multiple](https://github.com/eibelsmathew/leet-practice/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/eibelsmathew/leet-practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/eibelsmathew/leet-practice/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/eibelsmathew/leet-practice/tree/master/1025-divisor-game) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/eibelsmathew/leet-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
@@ -210,4 +212,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/eibelsmathew/leet-practice/tree/master/0225-implement-stack-using-queues) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/eibelsmathew/leet-practice/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/eibelsmathew/leet-practice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
