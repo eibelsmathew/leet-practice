@@ -17,6 +17,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/eibelsmathew/leet-practice/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/eibelsmathew/leet-practice/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/eibelsmathew/leet-practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/eibelsmathew/leet-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/eibelsmathew/leet-practice/tree/master/0733-flood-fill) |
 | [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/eibelsmathew/leet-practice/tree/master/0011-container-with-most-water) |
 | [0234-palindrome-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/eibelsmathew/leet-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/eibelsmathew/leet-practice/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Design
