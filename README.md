@@ -28,6 +28,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/eibelsmathew/leet-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/eibelsmathew/leet-practice/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2974-minimum-number-game](https://github.com/eibelsmathew/leet-practice/tree/master/2974-minimum-number-game) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/eibelsmathew/leet-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/eibelsmathew/leet-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/eibelsmathew/leet-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -39,6 +40,7 @@
 | [2058-concatenation-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/eibelsmathew/leet-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2974-minimum-number-game](https://github.com/eibelsmathew/leet-practice/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2215-finding-3-digit-even-numbers](https://github.com/eibelsmathew/leet-practice/tree/master/2215-finding-3-digit-even-numbers) |
+| [2974-minimum-number-game](https://github.com/eibelsmathew/leet-practice/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/eibelsmathew/leet-practice/tree/master/2974-minimum-number-game) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/eibelsmathew/leet-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Memoization
 |  |
