@@ -26,6 +26,7 @@
 | [0733-flood-fill](https://github.com/eibelsmathew/leet-practice/tree/master/0733-flood-fill) |
 | [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1534-count-good-triplets](https://github.com/eibelsmathew/leet-practice/tree/master/1534-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eibelsmathew/leet-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2058-concatenation-of-array](https://github.com/eibelsmathew/leet-practice/tree/master/2058-concatenation-of-array) |
@@ -168,6 +169,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/eibelsmathew/leet-practice/tree/master/1534-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/eibelsmathew/leet-practice/tree/master/2215-finding-3-digit-even-numbers) |
 ## Tree
 |  |
