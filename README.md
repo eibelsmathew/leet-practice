@@ -92,6 +92,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eibelsmathew/leet-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/eibelsmathew/leet-practice/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/eibelsmathew/leet-practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/eibelsmathew/leet-practice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/eibelsmathew/leet-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
