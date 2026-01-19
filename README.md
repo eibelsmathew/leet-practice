@@ -135,6 +135,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/eibelsmathew/leet-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0234-palindrome-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/eibelsmathew/leet-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
