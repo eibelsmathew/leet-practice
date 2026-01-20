@@ -96,6 +96,7 @@
 | [0020-valid-parentheses](https://github.com/eibelsmathew/leet-practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/eibelsmathew/leet-practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/eibelsmathew/leet-practice/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/eibelsmathew/leet-practice/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/eibelsmathew/leet-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eibelsmathew/leet-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
