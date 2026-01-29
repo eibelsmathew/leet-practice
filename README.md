@@ -183,6 +183,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0226-invert-binary-tree) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0226-invert-binary-tree) |
@@ -200,6 +202,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0226-invert-binary-tree) |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/eibelsmathew/leet-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/eibelsmathew/leet-practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/eibelsmathew/leet-practice/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eibelsmathew/leet-practice/tree/master/1971-find-if-path-exists-in-graph) |
