@@ -21,6 +21,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/eibelsmathew/leet-practice/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/eibelsmathew/leet-practice/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/eibelsmathew/leet-practice/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/eibelsmathew/leet-practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/eibelsmathew/leet-practice/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/eibelsmathew/leet-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -60,6 +61,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/eibelsmathew/leet-practice/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/eibelsmathew/leet-practice/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/eibelsmathew/leet-practice/tree/master/1025-divisor-game) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
