@@ -144,6 +144,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/eibelsmathew/leet-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0234-palindrome-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/eibelsmathew/leet-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -156,6 +157,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/eibelsmathew/leet-practice/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/eibelsmathew/leet-practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/eibelsmathew/leet-practice/tree/master/1013-fibonacci-number) |
