@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/eibelsmathew/leet-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/eibelsmathew/leet-practice/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/eibelsmathew/leet-practice/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/eibelsmathew/leet-practice/tree/master/0119-pascals-triangle-ii) |
@@ -86,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/eibelsmathew/leet-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eibelsmathew/leet-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
