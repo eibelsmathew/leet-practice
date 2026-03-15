@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/eibelsmathew/leet-practice/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/eibelsmathew/leet-practice/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/eibelsmathew/leet-practice/tree/master/0119-pascals-triangle-ii) |
+| [0217-contains-duplicate](https://github.com/eibelsmathew/leet-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/eibelsmathew/leet-practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/eibelsmathew/leet-practice/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eibelsmathew/leet-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/eibelsmathew/leet-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eibelsmathew/leet-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/eibelsmathew/leet-practice/tree/master/0217-contains-duplicate) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/eibelsmathew/leet-practice/tree/master/2215-finding-3-digit-even-numbers) |
@@ -111,6 +113,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/eibelsmathew/leet-practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/eibelsmathew/leet-practice/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eibelsmathew/leet-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/eibelsmathew/leet-practice/tree/master/1019-squares-of-a-sorted-array) |
