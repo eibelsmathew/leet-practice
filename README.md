@@ -91,6 +91,7 @@
 | [0001-two-sum](https://github.com/eibelsmathew/leet-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eibelsmathew/leet-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/eibelsmathew/leet-practice/tree/master/0217-contains-duplicate) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/eibelsmathew/leet-practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2169-simple-bank-system](https://github.com/eibelsmathew/leet-practice/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/eibelsmathew/leet-practice/tree/master/2215-finding-3-digit-even-numbers) |
@@ -107,6 +108,7 @@
 | [0344-reverse-string](https://github.com/eibelsmathew/leet-practice/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/eibelsmathew/leet-practice/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/eibelsmathew/leet-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/eibelsmathew/leet-practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/eibelsmathew/leet-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eibelsmathew/leet-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/eibelsmathew/leet-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -264,4 +266,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/eibelsmathew/leet-practice/tree/master/1025-divisor-game) |
+## Counting
+|  |
+| ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/eibelsmathew/leet-practice/tree/master/0884-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
